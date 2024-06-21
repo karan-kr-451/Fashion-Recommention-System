@@ -5,6 +5,10 @@
 
 A brief description of what this project does and who it's for The Fashion Recommendation System is a project aimed at providing personalized fashion recommendations to users based on visual similarities between images of fashion items. Leveraging state-of-the-art deep learning techniques, the system extracts features from images using a pre-trained Convolutional Neural Network (CNN) model, specifically ResNet50, and then recommends visually similar items from a curated dataset.
 
+###  Demo
+
+![Image description](demo\Demo.gif)
+
 ### Features
 1. Feature Extraction: Utilizes a pre-trained ResNet50 model, fine-tuned for feature extraction, to capture the essential characteristics of fashion items from images.
 2. Efficient Image Comparison: Employs feature normalization and Nearest Neighbors algorithms to quickly find and recommend similar items.
@@ -47,8 +51,4 @@ Streamlit run app.py
 1. Upload Image: Users can upload an image of a fashion item via the web interface.
 2. Receive Recommendations: The system processes the image, extracts its features, and displays similar items from the dataset.
 
-
-## Demo
-
-![Image description](path/to/your/image.png)
 
