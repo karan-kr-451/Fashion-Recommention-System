@@ -7,7 +7,7 @@ A brief description of what this project does and who it's for The Fashion Recom
 
 ###  Demo
 
-![Image description](demo\Demo.gif)
+![Image description](D:\Github Project\Fashion Recommendation\demo\Demo.gif)
 
 ### Features
 1. Feature Extraction: Utilizes a pre-trained ResNet50 model, fine-tuned for feature extraction, to capture the essential characteristics of fashion items from images.
